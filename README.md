@@ -13,6 +13,7 @@ Simple SELECT statements for retrieving data
 WHERE clause for filtering data
 ORDER BY clause for sorting data
 Hands-on exercises to solidify your understanding
+
 intermediate: Once you've grasped the basics, dive deeper into intermediate topics in this folder:
 
 Joining tables (INNER, LEFT, RIGHT, OUTER JOINs) for combining datasets
@@ -20,6 +21,7 @@ Advanced SELECT statements (aggregation functions, subqueries, aliases)
 Data manipulation with UPDATE and DELETE statements
 Introduction to data filtering with HAVING clause
 Practice problems to hone your intermediate skills
+
 advanced: Ready to push your boundaries? This folder delves into advanced SQL concepts:
 
 Window functions (e.g., RANK(), ROW_NUMBER(), LAG()) for complex data analysis
